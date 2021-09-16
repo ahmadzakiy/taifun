@@ -1,0 +1,46 @@
+@font-face {
+  font-family: 'COM4NRG';
+  src: url('../font/COM4NRG_.TTF') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+body  {
+  font-family: 'COM4NRG';
+}
+
+.custom-gradient {
+  background: linear-gradient(180deg, #ffffff00 10%, #adae7f 90%);
+}
+
+.custom-text-shadow {
+  text-shadow: 
+  0 1px #808d93,
+  -1px 0 #FEFFD3,
+  -1px 2px #808d93,
+  -2px 1px #FEFFD3,
+  -2px 3px #808d93,
+  -3px 2px #FEFFD3,
+  -3px 4px #808d93,
+  -4px 3px #FEFFD3,
+  -4px 5px #808d93,
+  -5px 4px #FEFFD3
+}
+
+/* .map-container {
+  position: relative;
+  width: 100%;
+  height: 300px;
+  overflow: hidden;
+}
+
+.map-container iframe,
+.map-container object,
+.map-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+} */

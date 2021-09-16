@@ -16,7 +16,7 @@
       <div class="hidden sm:block absolute z-20 top-0 right-0 w-full h-full bg-secondary opacity-60"></div>
       <img class="absolute z-30 bottom-52 left-0 w-20 sm:w-56" src="~assets/image/kupu_kiri.png" alt="">
       <img class="absolute z-30 bottom-52 right-8 w-36 sm:w-56" src="~assets/image/kupu_kanan.png" alt="">
-      <img class="absolute z-10 bottom-0 right-0 w-full" src="~assets/image/mobil_large.png" alt="">
+      <img class="absolute z-10 bottom-0 right-0 w-full" src="~assets/image/mobil.png" alt="">
       <img class="absolute z-0 top-0 right-0 w-full h-full" src="~assets/image/bg_1.png" alt="">
     </section>
     </div>
@@ -37,7 +37,7 @@
           <p class="text-sm py-1 px-2 bg-primary text-secondary rounded-md">Putra Pertama dari Bapak Eko Nugraha Adi S. & Ibu Ernawati</p>
           <p class="text-2xl text-primary mt-10 mb-4">Yang Bertempat di</p>
           <div class="shadow-2xl">
-            <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3961.045657114264!2d107.64939731477267!3d-6.885134695024759!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e68e776042c7003%3A0x1ba21dd0be74ea1!2sJl.%20Kav.%20PTPN%20No.79%2C%20Cibeunying%2C%20Kec.%20Cimenyan%2C%20Bandung%2C%20Jawa%20Barat%2040191!5e0!3m2!1sen!2sid!4v1631812499912!5m2!1sen!2sid" width="300" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe> -->
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3961.045657114264!2d107.64939731477267!3d-6.885134695024759!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e68e776042c7003%3A0x1ba21dd0be74ea1!2sJl.%20Kav.%20PTPN%20No.79%2C%20Cibeunying%2C%20Kec.%20Cimenyan%2C%20Bandung%2C%20Jawa%20Barat%2040191!5e0!3m2!1sen!2sid!4v1631812499912!5m2!1sen!2sid" width="300" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
           </div>  
         </div>
         <img class="absolute z-0 top-0 right-0 w-full h-full" src="~assets/image/bg_2.png" alt="">

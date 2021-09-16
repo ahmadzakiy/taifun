@@ -7,7 +7,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'taufannikah',
+    title: 'indhira dan taufan menikah',
     htmlAttrs: {
       lang: 'en'
     },
@@ -20,6 +20,10 @@ export default {
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
     ]
+  },
+  loading: {
+    color: '#0A4443',
+    height: '5px'
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css

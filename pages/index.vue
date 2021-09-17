@@ -7,7 +7,7 @@
       <img class="absolute z-30 top-0 right-0 w-40 sm:w-56" src="~assets/image/burung_kanan.png" alt="">
       <div class="relative z-40 flex flex-col items-center justify-center -mt-20 h-full">
         <h2 class="text-primary text-2xl sm:text-7xl mb-4 text-center">Well Hello, You Are Invited <br>to The Wedding of:</h2>
-        <h1 class="text-primary text-7xl sm:text-9xl text-center font-semibold custom-text-shadow">
+        <h1 class="text-primary text-7xl sm:text-9xl text-center font-semibold">
           Indhira <br>
           <span class="font-sans text-5xl sm:text-8xl">&</span>
           Taufan
@@ -45,14 +45,14 @@
       <section class="relative flex flex-col bg-primary p-6">
         <div class="relative z-40 flex flex-col items-center">
           <p class="text-xl sm:text-2xl text-secondary text-center mb-4">Mengingat kondisi saat ini, acara akan kami bagi menjadi 3 sesi:</p>
-          <p class="text-3xl text-white mb-2">Sesi 1</p>
+          <p class="text-3xl text-white mb-2">Sesi 1 (Akad)</p>
           <p class="text-3xl text-white mb-2">14.00 - 16.00 WIB</p>
           <div class="border border-dashed border-secondary w-full my-4"></div>
           <p class="text-3xl text-white mb-2">Sesi 2</p>
           <p class="text-3xl text-white mb-2">16.00 - 17.30 WIB</p>
           <div class="border border-dashed border-secondary w-full my-4"></div>
-          <p class="text-3xl text-white mb-2">Sesi 2</p>
-          <p class="text-3xl text-white mb-2">16.00 - 17.30 WIB</p>
+          <p class="text-3xl text-white mb-2">Sesi 3</p>
+          <p class="text-3xl text-white mb-2">17.30 - 19.30 WIB</p>
         </div>
         <img class="absolute z-0 top-0 right-0 w-full h-full object-cover" src="~assets/image/pattern_2.png" alt="">
       </section>

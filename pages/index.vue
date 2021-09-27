@@ -35,7 +35,11 @@
           <p class="text-2xl sm:text-3xl py-2 px-4 my-6 rounded-tr-2xl rounded-bl-2xl bg-primary text-secondary">dengan</p>
           <p class="text-3xl sm:text-4xl text-primary">Taufan Nugraha Adi S., S.Ds.</p>
           <p class="text-sm sm:text-lg py-1 px-2 bg-primary text-secondary rounded-md">Putra Pertama dari Bapak Eko Nugraha Adi S. & Ibu Ernawati</p>
-          <p class="text-2xl sm:text-3xl text-primary mt-10 mb-4">Yang Bertempat di</p>
+          <p class="text-2xl sm:text-3xl text-primary mt-10 mb-4">Yang Bertempat di:</p>
+          <p class="text-xl sm:text-2xl text-primary mb-4 text-center">
+            Jl. Kav PTP no 69, Pager Sari Bojong Koneng<br>
+            Kec. Cimenyan, Bandung
+          </p>
           <div class="shadow-2xl map-container">
             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3961.045657114264!2d107.64939731477267!3d-6.885134695024759!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e68e776042c7003%3A0x1ba21dd0be74ea1!2sJl.%20Kav.%20PTPN%20No.79%2C%20Cibeunying%2C%20Kec.%20Cimenyan%2C%20Bandung%2C%20Jawa%20Barat%2040191!5e0!3m2!1sen!2sid!4v1631812499912!5m2!1sen!2sid" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
           </div>  
